@@ -1,0 +1,3 @@
+Ejemplo del patrón de diseño Observable de Java
+
+http://raydelto.org/new_site/index.php?sec=2
